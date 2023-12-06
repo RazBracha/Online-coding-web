@@ -13,7 +13,12 @@ MongoDB
 # Quick Start
 Clone the Repository: 
 git clone [https://github.com/RazBracha/online-coding-app.git](https://github.com/RazBracha/Online-coding-web)
-Navigate to the Project: cd online-coding-app
-Install Dependencies: npm install
 
-Start the Application: npm start
+Navigate to the Project:
+cd online-coding-app
+
+Install Dependencies: 
+npm install
+
+Start the Application: 
+npm start
