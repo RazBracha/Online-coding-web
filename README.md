@@ -11,7 +11,7 @@ Socket.io
 MongoDB
 
 # Quick Start
-Clone the Repository:git clone https://github.com/RazBracha/online-coding-app.git
+Clone the Repository:git clone https://github.com/RazBracha/online-coding-app.git](https://github.com/RazBracha/Online-coding-web/tree/main
 Navigate to the Project: cd online-coding-app
 Install Dependencies: npm install
 
